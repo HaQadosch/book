@@ -1,0 +1,168 @@
+* Abilities
+  
+** The 6 Abilities
+   Keeping the 6 abilities that everybody knows is a great idea and the first time players will
+   manage to recognise easily the main traits of their characters when they will try their
+   hands on a different game.
+
+** Associated values
+   The bonus being rolled first and then the score computed second is a lovely idea and I want to
+   keep it. Naming the score a defense is still a bit of a missnomer, and I find it a bit confusing
+   as it sounds quite passive. Calling the score a check is more straightforward I thing as it
+   directly matches what the DM says when you need to roll a strenght check. The players know where
+   to look on their character sheet when required such a roll.
+
+** Generating the values
+   To generate quickly a character you need to roll 3 dice each time (6 times) and only use the 
+   lowest dice; 2 of them are being unused.
+   To make the generation faster, I would start with a base of +1 everywhere and the player roll
+   3 dice. Then they add +1 again to the matching attributes. Sometimes it will be 3 different stats
+   other times it will be one stat with an added +3.
+   The number of dice is determined by the level of the character. Here I want them to start at 
+   level 3 so they roll 3 dice; they can have up to 3 spells, 3 weapons skills and so on.
+   That way thee characters can have a bit of background before starting the adventure.
+   The NPCs are generated the same way, on the fly if need be.
+   The PCs will be able to decide where to add a +1 each time they reach a new level.
+
+* Physical/Mental balance
+
+** Definition of the Abilities
+   Using same the 6 abilities is a good idea but changing the definition/use is
+   doomed to get first time players confused when they will have a go at another game. 
+   Ranged attack should be a dexterity check, I will keep it that way.
+
+** Mens sana in corpore sano
+   Having a character with balanced score in mental attributes and physical one can be good to enforce
+   but I wouldn't try and redefined a mental attribute to be used as a physical one.
+   Instead I will ask the players to roll 2 dice for all their checks, one die for the physical component
+   of the action and the other one for the mental aspect of it. We can argue that a healthy mind in 
+   a healthy body means that both are involved in the heroes actions.
+   So a check has 2 components, a PHYsical one (STR, DEX or CON) and a MENtal one (INT, WIS, CHA).
+
+* Ability check
+  Both roll need to be reach the target value as determined by the PC or NPC stats.
+  If the failure of one dice can be overcome by the success of the other roll then the character
+  compensated one ability with the other. If this is not enough though, then this is a failure.
+  The ability with the lowest score gives the detail about how the action failed.
+
+** Supporting ability
+   While a check is done with a main ability (MEN or PHY), the second component (PHY or MEN respectively)
+   is said to be the supporting ability. When you roll the 2 dice, the firs dice is for the main ability
+   and the second one is the supporting one.
+   A check should spell the abilities in the same order the dice should be read.
+   First the main ability then the support ability.
+   Setting an ambush in DEX + WIS:
+   knowing where hide is the support skill, being able to hide the main one.
+
+** Spending CHA
+   The player can spend CHA to cancel a bad roll, mustering all the motivation and resolve possible
+   to succeed at the task. It means also that the player is unable to cope with the others until a good
+   night sleep. Until then, they are irrascible, irritable, unbearable with a CHA of -1 for the 
+   rest of the day.
+   If another character spend the time to help the main PC (giving his/her time instead of advancing
+   his/her own agenda), the PC can reroll once instead of spending CHA.
+
+** Examples of dual ability checks
+   
+*** Looking for a book in a library
+    Check CON + INT
+    CON fail: the hero fell asleep.
+    INT fail: the PC couldn't find a relevant enough book.
+
+*** Climbing
+    Check STR + WIS
+    STR fail: the PC couldn't lift himself/herself anymore.
+    WIS fail: the PC choose a wrong spot to grab and if failed under his/her weight.
+
+*** Melee attack
+    Check STR + INT
+    STR fail: Not hard enough.
+    INT fail: Wrong timing or wrong location.
+
+*** Ranged attack
+    Check DEX + WIS
+    DEX fail: The object missed its mark, because the target managed to move away in time.
+    WIS fail: The condition (wind, distance) were not taken properly into account.
+
+*** Cutting a purse
+    Check DEX + INT
+    DEX fail: The victim can fell the purse being grabbed.
+    INT fail: Wrong timing or location, no opportunity or someone saw it.
+
+** Passive / Active check
+   If the player roll for an action that is not opposed to the actions of an NPC, they simply need
+   to roll under or equal to their ability check. The PC ability is the active ability.
+   If it involves an NPC, they need to roll above the NPC ability check. The NPC ability is the passive
+   ability. The DM can decide to roll for the NPC instead in wich case, the NPC need to roll higher than the
+   PC ability. The PC ability is the passive ability this time.
+   Whoever rolls against a passive ability adds their own ability bonus to the roll before checking if they
+   scored higher than the target number.
+   
+   An ability check is a roll under if this is an active ability and a roll above if this is a passive one.
+
+** Grouped task
+   Some tasks can be divided into independent smaller tasks. In which case the leader (decided willingly
+   or whoever has better CHA) decide of the separation of tasks. As long as the majority succeeds,
+   this is an overall success.
+   A character
+
+* Spells
+
+** Spell slots
+   Yes for spell slots, it gives a nice idea of encumbrance regarding brain power.
+
+** Memorising spells
+   1 spell remembered per level but can use it once per short rest.
+
+** Spell books
+   One spell book per spell is not practical at all and I don't feel this is the right way
+   to limit the magical use. A spell book is a big book but can hold an unlimited number of spells.
+   I keep the fact that a PC can own and use multiple spellbooks.
+
+* Conflict
+
+** Negociation first
+   The idea that a conflict can be solved first via negociation is important. A negociation roll should
+   be made before going any further into the conflict. Unless the players face a fanatic antagonist or
+   a creature without a remote idea of what a negociation is.
+
+** Who's the boss
+   Both parties want to know who has the upper hand in order to know how and toward who's advantage the
+   situation is to be resolved.
+
+*** Objectives
+    If both parties have objectives that are not opposed (or too opposed), then they negotiate in favor of the party who
+    won the negotiation roll.
+    If they are opposed, the loser of the negociation admits defeat and let the winner fulfill its objective.
+    As long as their physical integrity is intact, of course.
+
+*** Who rolls
+    The main ability is CHArisma. It is supported by STR if the party is flexing their muscles, CON if they
+    would rather show pecs and stay put with a strong stare, DEX if they show some skills (dance battle anyone?).
+    If parties have leaders, then this is resolved between them, and the group follow the decision of their leaders.
+    If all members can participate, the bigger party wins the favor without even rolling.
+    If both groug have the same number of members, the characters with the highest CHA becomes the leaders.
+    In case of tie between the players they can sort it out or choose what is the best PHY ability to use and
+    then decide the leader based on who get the higher score in that PHY ability.
+   
+*** Situation check
+    If they both fail at their CHA, they are simply admitting they want some action. And they go at it without
+    penalty.
+    If one fails in CHA, the other party is regarded as the winner. EVEN if the PHY check was a success.
+    If means the loudest/strongest leader was not convincing.
+    If they both succeed their CHA then the highest PHY wins the exchange, by being the most willing to
+    fight. If they both win, they are willing to keep negociating if a win win situation is found, otherwise
+    they fight admitting it was meant to be.
+   
+** Fight
+
+*** Initiative
+    WIS + PHY
+
+*** Roll to hit
+    Roll STR + MEN for melee attack
+    Roll DEX + MEN for ranged attack
+    Against the AC score of the opponent, you must roll higher or equal to the AC.
+    The MEN roll is an active check, roll lower than your MEN ability.
+
+*** Damage
