@@ -166,3 +166,20 @@
     The MEN roll is an active check, roll lower than your MEN ability.
 
 *** Damage
+    For the damage, the character rolls the dice specified in the weapon description and add the
+    excess of the PHY roll. 
+
+*** Humiliation
+    If the weapons damage dice roll is a 1, the character has the possibility to humiliate the opponent
+    instead of inflicting furter dammage from the PHY roll.
+    The PC rolls CHA (to turn this weak blow in his/her advantage) and with a success, he/she manages to make a fool of the NPC. 
+    The NPC from then on, roll his/her MEN check with a -2 malus.
+    The NPC's CHA is also having a -1 malus.
+    The effect of the humiliation can be accumulated, and if the CHA reach 0, the NPC flee from the fight.
+    
+    It is possible to humiliate an opponent even when the damage roll is bigger than 1.
+    In this case, the CHA check of the PC is not necessary and the malus applied are equal to the damage
+    the NPC should have received instead (just taking into account the dice value, omitting the added score
+    of the PHY roll).
+
+    It is insteresting to play the consequences of such humiliations during the follow up scenes.
