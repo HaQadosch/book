@@ -1,0 +1,174 @@
+#+TODO: WATCH READING | DONE
+
+* READING Currently Reading 
+1. An introduction to global health delivery :: Joia Mukherje
+2. An introduction to statistical learning
+3. England upturn'd
+4. Lamentations of the Flame Princess Referee Guide
+
+* DONE Finished Reading
+1. Fish Fuckers
+2. Gagner la guerre
+3. Lamentations of the Flame Princess Core Rules
+4. Battleship Yamato
+5. The knowledge illusion :: Steven Sloman
+6. La Dynamique du capitalisme :: Fernand Braudel
+7. Vaginas are magic
+8. The Eldritch Cock
+9. Wonder & Wickedness
+10. Marvel & Malisons
+11. The sell out :: Paul Beatty
+12. Bastion Ein Sof
+13. Factfulness :: Hans Rosling
+14. Korea the impossible country :: Daniel Tudor
+
+* WATCH Next to Read
+1. [ ] Nudge :: Richard S. Thaler
+2. [ ] An introduction to global health delivery :: Joia Mukherje
+3. [ ] Seven brief lessons on physics :: Carlo Rovelli
+4. [ ] The epigenetics revolution
+5. [ ] Monocle guide How to create a nation :: someone [fn:6]
+6. [ ] That big book on social psychology
+7. [ ] Silent Legion
+8. [ ] Capital in the 20st century :: Thomas Picketty
+
+* Books
+1. [ ] The Org Mode 7 Reference Manual :: Carsten Dominik
+2. [ ] Monocle guide How to create a nation :: someone [fn:6]
+3. [ ] The Emacs manual
+4. [ ] Norse mythology :: Neil Gaiman
+5. [ ] Beren and Luthien :: Tolkien
+6. [ ] Sagas Six Pack
+   1. [ ] Sagas Six Pack 1
+      1. [ ] Sigurd the volsung
+      2. [ ] The sea fight
+      3. [ ] Eric the red
+      4. [ ] Gunnlaug the worm-tong
+      5. [ ] The prose Eda
+      6. [ ] Beowulf
+   2. [ ] Sagas Six Pack 2
+      1. [ ] Ingolf's saga
+      2. [ ] King Harad
+      3. [ ] Fridthjof the bold
+      4. [ ] The saga of Thorstein
+      5. [ ] The Nibelungenlied
+      6. [ ] The poetic Eda
+   3. [ ] Sagas Six Pack 3
+      1. [ ] Lay of Hamdir
+      2. [ ] Saga of Olaf Kyrre
+      3. [ ] The hell-ride of Brynhild
+      4. [ ] Song of Atli
+      5. [ ] Magnus the good
+      6. [ ] The story of burnt Nial
+   4. [ ] Sagas Six Pack 4
+      1. [ ] Little Anny the goose-girl
+      2. [ ] King Alfred's viking
+      3. [ ] Sigurd the crusader
+      4. [ ] True and untrue
+      5. [ ] Halfdan the black
+      6. [ ] In the days of giants
+   5. [ ] Sagas Six Pack 5
+      1. [ ] Bruin and Reynard
+      2. [ ] A sea queen's sailing
+      3. [ ] The master thief
+      4. [ ] Saga of Harald Hardrade
+      5. [ ] Big Peter and Little Peter
+      6. [ ] Erling the bold
+   6. [ ] Sagas Six Pack 6
+      1. [ ] The elves
+      2. [ ] Hakon Herdebred
+      3. [ ] The valkyrs
+      4. [ ] Eric Brighteyes
+      5. [ ] Harald Harfager
+      6. [ ] A thane of Wessex
+   7. [ ] Sagas Six Pack 7
+   8. [ ] Sagas Six Pack 8
+      1. [ ] Greek and Northern myth
+      2. [ ] Grettir the outlaw
+      3. [ ] The waif woman
+      4. [ ] Red Jason
+      5. [ ] Book of Michael Sunlocks
+      6. [ ] The bondman
+7. [ ] Ian Banks
+   1. [ ] The player of games :: Ian Banks
+   2. [ ] Consider Phlebas :: Ian Banks
+8. [-] Jean-Philippe Jaworski
+   1. [X] Gagner la guerre :: Jean-Philippe Jaworski
+   2. [ ] Janua Vera :: Jean-Philippe Jaworski
+9. [ ] Carlo Rovelli
+   1. [ ] Seven brief lessons on physics :: Carlo Rovelli
+   2. [ ] Reality is not what it seems :: Carlo Rovelli
+   3. [ ] The order of time :: Carlo Rovelli
+10. [-] Fernand Braudel
+    1. [X] La Dynamique du capitalisme :: Fernand Braudel
+    2. [ ] La Mediterranee :: Fernand Braudel
+    3. [ ] Grammaire des civilisations :: Fernand Braudel
+11. [-] Stats
+    1. [X] An introduction to statistical learning
+    2. [ ] The elements of statistical learning
+    3. [ ] Notes on Discrete Mathematics[fn:5]
+12. [-] RPGs
+    1. [ ] Silent Legion
+    2. [-] Lamentations of the Flame Princess
+       1. [ ] The Ghoul Prince :: Zzarkov Kowolski 
+       2. [X] Player Core Book - Rules & Magic
+       3. [ ] Referee Guide
+       4. [ ] Frozen and mutilated
+       5. [ ] Maze of the blue Meduza
+       6. [X] England Upturn'd
+       7. [X] Fish Fuckers
+       8. [X] Vaginas are magic
+       9. [X] The Eldritch Cock
+    3. [ ] DCC
+       1. [ ] How to write an adventure that don't sucks
+       2. [ ] calendar thingy
+       3. [ ] Elements of dungeons
+    4. [-] Lost Pages
+       1. [X] Wonder & Wickedness
+       2. [X] Marvel & Malisons
+       3. [ ] Burgs & Bailifs Trinity
+       4. [X] Bastion Ein Sof
+       5. [ ] Fever Swamp
+13. [ ] Tech
+    1. [ ] Data Structure
+    2. [ ] Redux
+    3. [ ] Mostly adequate JS [fn:1]
+    4. [ ] Getting started with GraphQL[fn:2]
+    5. [ ] Functional data structure[fn:4]
+    6. [ ] Eloquent JavaScript[fn:3]
+    7. [ ] The modern JavaScript Collection
+       1. [ ] Practical ES6
+       2. [ ] JavaScript best practices
+       3. [ ] 6 JavaScript projects
+       4. [ ] Modern JavaScript tools kit
+14. [X] Battleship Yamato :: Jan Morris
+15. [X] The sell out :: Paul Beatty
+16. [ ] Nudge :: Richard S. Thaler
+17. [ ] The ten types of human :: Dexter Dias
+18. [ ] Death, a graveside companion :: Joanna Ebenstein
+19. [ ] The secret world :: Christopher Andrew
+20. [ ] Around the world in 80 trees :: Jonathan Drori
+21. [X] Factfulness :: Hans Rosling
+22. [X] Korea the impossible country :: Daniel Tudor
+23. [ ] An introduction to global health delivery :: Joia Mukherje
+24. 
+
+* Next To Buy
+1. Thomas Keith, historian about pre-modern England.
+2. Into the Odd & Eletric Bastion [fn:7]
+
+* Footnotes
+
+[fn:7] Origin ideas and litterature for Bastion Ein Sof
+
+[fn:6] via this [[http://nautil.us/blog/why-we-should-think-twice-about-colonizing-space][Nautilus article]]
+
+[fn:5] [[http://www.cs.yale.edu/homes/aspnes/classes/202/notes.pdf][Notes on Discrete Mathematics]]
+
+[fn:4] [[https://cs.uwaterloo.ca/~plragde/flaneries/FDS/][Functional Data Structures]]
+
+[fn:3] [[https://eloquentjavascript.net/index.html][Eloquent JavaScript]]
+
+[fn:2] [[https://www.howtographql.com/][The fullstack tutorial for GraphQL]]
+
+[fn:1] [[https://legacy.gitbook.com/book/mostly-adequate/mostly-adequate-guide/details][Mostly adequate guide to functional programming]]
