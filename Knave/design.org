@@ -65,9 +65,9 @@
 ** Examples of dual ability checks
    
 *** Looking for a book in a library
-    Check CON + INT
-    CON fail: the hero fell asleep.
-    INT fail: the PC couldn't find a relevant enough book.
+    Check CON + INT:
+    - CON fail::the hero fell asleep.
+    - INT fail::the PC couldn't find a relevant book.
 
 *** Climbing
     Check STR + WIS
