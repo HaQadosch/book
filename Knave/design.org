@@ -1,5 +1,6 @@
 * Abilities
-  
+  I will use abilities and attributes interchangeably, same for PCs, characters and heroes.
+
 ** The 6 Abilities
    Keeping the 6 abilities that everybody knows is a great idea and the first time players will
    manage to recognise easily the main traits of their characters when they will try their
@@ -8,16 +9,19 @@
 ** Associated values
    The bonus being rolled first and then the score computed second is a lovely idea and I want to
    keep it. Naming the score a defense is still a bit of a missnomer, and I find it a bit confusing
-   as it sounds quite passive. Calling the score a check is more straightforward I thing as it
-   directly matches what the DM says when you need to roll a strenght check. The players know where
-   to look on their character sheet when required such a roll.
+   as it sounds quite passive. Calling the score a check is more straightforward I think as it
+   directly matches what the DM says when you need to roll a strength check for example. 
+   The players know where  to look on their character sheet when required to perform such a roll.
 
 ** Generating the values
    To generate quickly a character you need to roll 3 dice each time (6 times) and only use the 
    lowest dice; 2 of them are being unused.
+   For lamentation for example, your bonuses need to add up to more than 0, which can lead to
+   create a lot of PCs until one satisfy the condition.
    To make the generation faster, I would start with a base of +1 everywhere and the player roll
-   3 dice. Then they add +1 again to the matching attributes. Sometimes it will be 3 different stats
-   other times it will be one stat with an added +3.
+   3 dice. Then they add +1 to the matching attributes (since there are 6 abilities, the assignement
+   is direct). Sometimes it will be 3 different stats other times it will be one stat with an added +3.
+   
    The number of dice is determined by the level of the character. Here I want them to start at 
    level 3 so they roll 3 dice; they can have up to 3 spells, 3 weapons skills and so on.
    That way thee characters can have a bit of background before starting the adventure.
@@ -27,19 +31,20 @@
 * Physical/Mental balance
 
 ** Definition of the Abilities
-   Using same the 6 abilities is a good idea but changing the definition/use is
+   Using the same the 6 abilities is a good idea but changing the definition/use is
    doomed to get first time players confused when they will have a go at another game. 
    Ranged attack should be a dexterity check, I will keep it that way.
 
 ** Mens sana in corpore sano
-   Having a character with balanced score in mental attributes and physical one can be good to enforce
-   but I wouldn't try and redefined a mental attribute to be used as a physical one.
+   Having a character with balanced score in mental attributes and physical one can be good (not sure if 
+   it should be enforced but why not) but I wouldn't try and redefined a mental attribute to be used as a physical one.
    Instead I will ask the players to roll 2 dice for all their checks, one die for the physical component
    of the action and the other one for the mental aspect of it. We can argue that a healthy mind in 
    a healthy body means that both are involved in the heroes actions.
    So a check has 2 components, a PHYsical one (STR, DEX or CON) and a MENtal one (INT, WIS, CHA).
 
 * Ability check
+  So now every check need two rolls.
   Both roll need to be reach the target value as determined by the PC or NPC stats.
   If the failure of one dice can be overcome by the success of the other roll then the character
   compensated one ability with the other. If this is not enough though, then this is a failure.
@@ -52,7 +57,7 @@
    A check should spell the abilities in the same order the dice should be read.
    First the main ability then the support ability.
    Setting an ambush in DEX + WIS:
-   knowing where hide is the support skill, being able to hide the main one.
+   knowing where to hide is the support skill, being able to hide (remaining still, ...) the main one.
 
 ** Spending CHA
    The player can spend CHA to cancel a bad roll, mustering all the motivation and resolve possible
@@ -104,7 +109,6 @@
    Some tasks can be divided into independent smaller tasks. In which case the leader (decided willingly
    or whoever has better CHA) decide of the separation of tasks. As long as the majority succeeds,
    this is an overall success.
-   A character
 
 * Spells
 
