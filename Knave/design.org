@@ -66,28 +66,28 @@
    
 *** Looking for a book in a library
     Check CON + INT:
-    - CON fail::the hero fell asleep.
-    - INT fail::the PC couldn't find a relevant book.
+    - CON fail :: the hero fell asleep.
+    - INT fail :: the PC couldn't find a relevant book.
 
 *** Climbing
-    Check STR + WIS
-    STR fail: the PC couldn't lift himself/herself anymore.
-    WIS fail: the PC choose a wrong spot to grab and if failed under his/her weight.
+    Check STR + WIS:
+    - STR fail :: the PC couldn't lift himself/herself anymore.
+    - WIS fail :: the PC choose a wrong spot to grab and if failed under his/her weight.
 
 *** Melee attack
-    Check STR + INT
-    STR fail: Not hard enough.
-    INT fail: Wrong timing or wrong location.
+    Check STR + INT:
+    - STR fail :: Not hard enough.
+    - INT fail :: Wrong timing or wrong location.
 
 *** Ranged attack
-    Check DEX + WIS
-    DEX fail: The object missed its mark, because the target managed to move away in time.
-    WIS fail: The condition (wind, distance) were not taken properly into account.
+    Check DEX + WIS:
+    - DEX fail :: The object missed its mark, because the target managed to move away in time.
+    - WIS fail :: The condition (wind, distance) were not taken properly into account.
 
 *** Cutting a purse
-    Check DEX + INT
-    DEX fail: The victim can fell the purse being grabbed.
-    INT fail: Wrong timing or location, no opportunity or someone saw it.
+    Check DEX + INT:
+    - DEX fail :: The victim can fell the purse being grabbed.
+    - INT fail :: Wrong timing or location, no opportunity or someone saw it.
 
 ** Passive / Active check
    If the player roll for an action that is not opposed to the actions of an NPC, they simply need
@@ -160,10 +160,10 @@
     WIS + PHY
 
 *** Roll to hit
-    Roll STR + MEN for melee attack
-    Roll DEX + MEN for ranged attack
-    Against the AC score of the opponent, you must roll higher or equal to the AC.
-    The MEN roll is an active check, roll lower than your MEN ability.
+    - Roll STR + MEN for melee attack
+    - Roll DEX + MEN for ranged attack
+    - Against the AC score of the opponent, you must roll higher or equal to the AC.
+    - The MEN roll is an active check, roll lower than your MEN ability.
 
 *** Damage
     For the damage, the character rolls the dice specified in the weapon description and add the
