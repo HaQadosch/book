@@ -5,6 +5,7 @@
 2. An introduction to statistical learning
 3. England upturn'd
 4. Lamentations of the Flame Princess Referee Guide
+5. Burgs & Bailifs Trinity
 
 * DONE Finished Reading
 1. Fish Fuckers
@@ -150,7 +151,7 @@
 20. [ ] Around the world in 80 trees :: Jonathan Drori
 21. [X] Factfulness :: Hans Rosling
 22. [X] Korea the impossible country :: Daniel Tudor
-23. [ ] An introduction to global health delivery :: Joia Mukherje
+23. [X] An introduction to global health delivery :: Joia Mukherje
 24. 
 
 * Next To Buy

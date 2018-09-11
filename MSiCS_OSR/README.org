@@ -1,3 +1,11 @@
+* Why
+  Questing Beast wrote Knave with some design points explaining how and why he made this game 
+  the way it is.
+  I realise that I would have done things differently based on his goals.
+  I decided to summarise them here and apply them to my game of knave.
+  An idea bringing another one they changed the original game substantially and it could be it's 
+  own thing.
+
 * Objectives
 
 ** Fast
@@ -13,5 +21,14 @@
 ** Modular
    Applying elements from other games should be straightforward enough.
 
-** OSR
+* Inspiration
+  More sources will be added as I look for more examples and ideas.
+
+** The global direction
    https://www.lulu.com/shop/matthew-finch/quick-primer-for-old-school-gaming/ebook/product-3159558.html
+
+** It started it
+   Knave
+
+** The check with multiple abilities
+   The Dark eye
