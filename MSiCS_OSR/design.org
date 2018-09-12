@@ -123,6 +123,10 @@
    to limit the magical use. A spell book is a big book but can hold an unlimited number of spells.
    I keep the fact that a PC can own and use multiple spellbooks.
 
+** Spell catastrophy
+   No level, just the risk of failing limits the use of the spells.
+   It's more about how much are you ready to loose.
+
 * Conflict
 
 ** Negociation first
@@ -145,7 +149,7 @@
     would rather show pecs and stay put with a strong stare, DEX if they show some skills (dance battle anyone?).
     If parties have leaders, then this is resolved between them, and the group follow the decision of their leaders.
     If all members can participate, the bigger party wins the favor without even rolling.
-    If both groug have the same number of members, the characters with the highest CHA becomes the leaders.
+    If both groug have around the same number of members, the characters with the highest CHA becomes the leaders.
     In case of tie between the players they can sort it out or choose what is the best PHY ability to use and
     then decide the leader based on who get the higher score in that PHY ability.
    
@@ -161,9 +165,12 @@
 ** Fight
 
 *** Initiative
-    WIS + PHY
-
+    WIS + PHY:
+    - Again PHY is based on the situation and what action you try to achieve.
+    - You need all your wits to keep your cool, makes sense of what is happening around you, and guess what is the next move of your opponent.
+    
 *** Roll to hit
+    Most of the time, the MEN ability will be the highest the PC has, which dictates the fighting style!
     - Roll STR + MEN for melee attack
     - Roll DEX + MEN for ranged attack
     - Against the AC score of the opponent, you must roll higher or equal to the AC.
@@ -190,5 +197,42 @@
 
 ** Non physical conflict
 
-* Tables
+* Adventuring
 
+** Travelling in the wild
+
+*** From point A to point B
+    Make a travel check:
+    - CON + INT :: If you have a map or previous knowledge about your trip
+    - CON + WIS :: If you refer to songs and tales about the area
+    - CON + CHA :: If you try to find and talk to travellers or previous locals
+
+    Success means you will manage to avoid most of the traps you could meet along the way and find the 
+    best Inns and farms.
+    Failure in MEN means your troup will have to face the traps and obstacles, they have been lied too or
+    the info got too old, ...
+    If they fail at CON: they get tired during the trip, due to bad weather.
+    -1 per how bad they failed, in turn CON, STR, DEX.
+
+*** Hunting
+    DEX + WIS
+
+*** Hazard
+    Prepare some traps, mean ruffians, hostile villages, wild beasts and so on...
+    Offer the opportunity to avoid them if they succeded at their MEN part of the travelling check.
+
+*** Meeting travellers
+
+**** Avoid
+
+**** Intro
+
+**** Exchange of news
+
+**** Exchange of goods
+
+** Cities and Villages
+*** Life in villages
+
+*** Life in cities
+    Vornheim
