@@ -1,11 +1,12 @@
 #+TODO: WATCH READING | DONE
 
 * READING Currently Reading 
-1. An introduction to global health delivery :: Joia Mukherje
+1. Janua Vera :: Jean-Philippe Jaworski
 2. An introduction to statistical learning
 3. England upturn'd
 4. Lamentations of the Flame Princess Referee Guide
 5. Burgs & Bailifs Trinity
+6. The Dig
 
 * DONE Finished Reading
 1. Fish Fuckers
@@ -22,16 +23,17 @@
 12. Bastion Ein Sof
 13. Factfulness :: Hans Rosling
 14. Korea the impossible country :: Daniel Tudor
+15. An introduction to global health delivery :: Joia Mukherje
+
 
 * WATCH Next to Read
 1. [ ] Nudge :: Richard S. Thaler
-2. [ ] An introduction to global health delivery :: Joia Mukherje
-3. [ ] Seven brief lessons on physics :: Carlo Rovelli
-4. [ ] The epigenetics revolution
-5. [ ] Monocle guide How to create a nation :: someone [fn:6]
-6. [ ] That big book on social psychology
-7. [ ] Silent Legion
-8. [ ] Capital in the 20st century :: Thomas Picketty
+2. [ ] Seven brief lessons on physics :: Carlo Rovelli
+3. [ ] The epigenetics revolution
+4. [ ] Monocle guide How to create a nation :: someone [fn:6]
+5. [ ] That big book on social psychology
+6. [ ] Silent Legion
+7. [ ] Capital in the 20st century :: Thomas Picketty
 
 * Books
 1. [ ] The Org Mode 7 Reference Manual :: Carsten Dominik
@@ -93,9 +95,9 @@
 7. [ ] Ian Banks
    1. [ ] The player of games :: Ian Banks
    2. [ ] Consider Phlebas :: Ian Banks
-8. [-] Jean-Philippe Jaworski
+8. [X] Jean-Philippe Jaworski
    1. [X] Gagner la guerre :: Jean-Philippe Jaworski
-   2. [ ] Janua Vera :: Jean-Philippe Jaworski
+   2. [X] Janua Vera :: Jean-Philippe Jaworski
 9. [ ] Carlo Rovelli
    1. [ ] Seven brief lessons on physics :: Carlo Rovelli
    2. [ ] Reality is not what it seems :: Carlo Rovelli
@@ -110,7 +112,8 @@
     3. [ ] Notes on Discrete Mathematics[fn:5]
 12. [-] RPGs
     1. [ ] Silent Legion
-    2. [-] Lamentations of the Flame Princess
+    2. [ ] The Dig
+    3. [-] Lamentations of the Flame Princess
        1. [ ] The Ghoul Prince :: Zzarkov Kowolski 
        2. [X] Player Core Book - Rules & Magic
        3. [ ] Referee Guide
@@ -120,11 +123,11 @@
        7. [X] Fish Fuckers
        8. [X] Vaginas are magic
        9. [X] The Eldritch Cock
-    3. [ ] DCC
+    4. [ ] DCC
        1. [ ] How to write an adventure that don't sucks
-       2. [ ] calendar thingy
+       2. [ ] Calendar thingy
        3. [ ] Elements of dungeons
-    4. [-] Lost Pages
+    5. [-] Lost Pages
        1. [X] Wonder & Wickedness
        2. [X] Marvel & Malisons
        3. [ ] Burgs & Bailifs Trinity
