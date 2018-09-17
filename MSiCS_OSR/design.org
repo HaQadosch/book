@@ -232,7 +232,35 @@
 **** Exchange of goods
 
 ** Cities and Villages
-*** Life in villages
+*** Life in villages and small farms
 
 *** Life in cities
     Vornheim
+
+* Faeris
+
+** Description
+   Look like a mushroom
+   Look like the color purple, he's pissed because he has been denied in rainbows due to family feud
+   Smells ash, he came back from the circle of hell, told her story to this Dante guy.
+
+** Talk
+   To be weird, you need to be random. 
+   Better follow a pattern of speech detached from your own brain for better rendition.
+   For instance, roll 3d6 into a matching table (color, smells, dates, ...) and a d4.
+   You should place the matched word into d4 sentences. 
+
+*** Put numbers in their speech
+    1. speak by saying numbers in every sentences, following the order of PI
+    2. idem, following the golder ration
+    3. idem, with a random die
+
+*** Put colors in their speech
+
+*** Put smells
+
+** Mission
+   Should be random, with tables that depends on the level of the players.
+
+* Post drunk derangement if they cannot get out of the faeris' hold soon enough
+  Use a table I guess
