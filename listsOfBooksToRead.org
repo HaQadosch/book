@@ -7,6 +7,7 @@
 4. Lamentations of the Flame Princess Referee Guide
 5. Burgs & Bailifs Trinity
 6. The Dig
+7. The Monocle Travel Guide to Seoul
 
 * DONE Finished Reading
 1. Fish Fuckers
@@ -24,6 +25,8 @@
 13. Factfulness :: Hans Rosling
 14. Korea the impossible country :: Daniel Tudor
 15. An introduction to global health delivery :: Joia Mukherje
+16. Legend of the Five Rings Beginner Box
+17. Monsters, Vampire V5 quickstart
 
 
 * WATCH Next to Read
@@ -112,8 +115,15 @@
     3. [ ] Notes on Discrete Mathematics[fn:5]
 12. [-] RPGs
     1. [ ] Silent Legion
-    2. [ ] The Dig
-    3. [-] Lamentations of the Flame Princess
+    2. [ ] Sigmata
+    3. [ ] The Dig
+    4. [-] Legend of the Five Rings
+       1. [X] Beginner Box
+       2. [ ] Core rules
+    5. [-] Vampire V5
+       1. [X] Monsters, Quickstart
+       2. [ ] Core rulebook
+    6. [-] Lamentations of the Flame Princess
        1. [ ] The Ghoul Prince :: Zzarkov Kowolski 
        2. [X] Player Core Book - Rules & Magic
        3. [ ] Referee Guide
@@ -123,16 +133,18 @@
        7. [X] Fish Fuckers
        8. [X] Vaginas are magic
        9. [X] The Eldritch Cock
-    4. [ ] DCC
+    7. [ ] DCC
        1. [ ] How to write an adventure that don't sucks
        2. [ ] Calendar thingy
        3. [ ] Elements of dungeons
-    5. [-] Lost Pages
+    8. [-] Lost Pages
        1. [X] Wonder & Wickedness
        2. [X] Marvel & Malisons
        3. [ ] Burgs & Bailifs Trinity
        4. [X] Bastion Ein Sof
        5. [ ] Fever Swamp
+       6. [ ] Into the Odd
+       7. [ ] Odditional materials
 13. [ ] Tech
     1. [ ] Data Structure
     2. [ ] Redux
@@ -155,7 +167,9 @@
 21. [X] Factfulness :: Hans Rosling
 22. [X] Korea the impossible country :: Daniel Tudor
 23. [X] An introduction to global health delivery :: Joia Mukherje
-24. 
+24. [ ] Tourism Guide
+    1. [ ] The Monocle Travel Guide to Seoul
+    2. [ ] The Monocle Travel Guide to Tokyo
 
 * Next To Buy
 1. Thomas Keith, historian about pre-modern England.
