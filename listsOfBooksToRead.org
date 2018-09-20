@@ -1,13 +1,11 @@
 #+TODO: WATCH READING | DONE
 
 * READING Currently Reading 
-1. Janua Vera :: Jean-Philippe Jaworski
 2. An introduction to statistical learning
 3. England upturn'd
 4. Lamentations of the Flame Princess Referee Guide
 5. Burgs & Bailifs Trinity
 6. The Dig
-7. The Monocle Travel Guide to Seoul
 
 * DONE Finished Reading
 1. Fish Fuckers
@@ -27,16 +25,18 @@
 15. An introduction to global health delivery :: Joia Mukherje
 16. Legend of the Five Rings Beginner Box
 17. Monsters, Vampire V5 quickstart
+18. The Monocle Travel Guide to Seoul
 
 
 * WATCH Next to Read
 1. [ ] Nudge :: Richard S. Thaler
-2. [ ] Seven brief lessons on physics :: Carlo Rovelli
-3. [ ] The epigenetics revolution
-4. [ ] Monocle guide How to create a nation :: someone [fn:6]
-5. [ ] That big book on social psychology
-6. [ ] Silent Legion
-7. [ ] Capital in the 20st century :: Thomas Picketty
+2. [ ] Janua Vera :: Jean-Philippe Jaworski
+3. [ ] Seven brief lessons on physics :: Carlo Rovelli
+4. [ ] The epigenetics revolution
+5. [ ] Monocle guide How to create a nation :: someone [fn:6]
+6. [ ] That big book on social psychology
+7. [ ] Silent Legion
+8. [ ] Capital in the 20st century :: Thomas Picketty
 
 * Books
 1. [ ] The Org Mode 7 Reference Manual :: Carsten Dominik
@@ -167,8 +167,8 @@
 21. [X] Factfulness :: Hans Rosling
 22. [X] Korea the impossible country :: Daniel Tudor
 23. [X] An introduction to global health delivery :: Joia Mukherje
-24. [ ] Tourism Guide
-    1. [ ] The Monocle Travel Guide to Seoul
+24. [-] Tourism Guide
+    1. [X] The Monocle Travel Guide to Seoul
     2. [ ] The Monocle Travel Guide to Tokyo
 
 * Next To Buy
