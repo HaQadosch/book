@@ -1,11 +1,8 @@
 #+TODO: WATCH READING | DONE
 
 * READING Currently Reading 
-2. An introduction to statistical learning
-3. England upturn'd
-4. Lamentations of the Flame Princess Referee Guide
-5. Burgs & Bailifs Trinity
-6. The Dig
+1. An introduction to statistical learning
+3. Burgs & Bailifs Trinity
 
 * DONE Finished Reading
 1. Fish Fuckers
@@ -26,12 +23,14 @@
 16. Legend of the Five Rings Beginner Box
 17. Monsters, Vampire V5 quickstart
 18. The Monocle Travel Guide to Seoul
+19. The Dig
+20. England upturn'd
+21. Lamentations of the Flame Princess Referee Guide
+22. Nudge :: Richard S. Thaler
+23. Seven brief lessons on physics :: Carlo Rovelli
 
-
-* WATCH Next to Read
-1. [ ] Nudge :: Richard S. Thaler
+* Next to Read
 2. [ ] Janua Vera :: Jean-Philippe Jaworski
-3. [ ] Seven brief lessons on physics :: Carlo Rovelli
 4. [ ] The epigenetics revolution
 5. [ ] Monocle guide How to create a nation :: someone [fn:6]
 6. [ ] That big book on social psychology
